@@ -8,4 +8,5 @@ module Grape
   end
 end
 
+require 'kaminari'
 require "grape/kaminari"
